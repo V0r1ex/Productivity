@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('./components/head.ejs') %>
+    <link rel="stylesheet" href="market.css">
+</head>
+<body>
+    <%- include('./components/loading.ejs') %>
+    <div class="container">
+        <%- include('./components/header.ejs') %>
+
+        <main class="main">
+            <div class="main-top">
+                <h2>Market</h2>
+                <div class="market-sum counter">Итого: <span class="market-sum-value"></span></div>
+            </div>
+            <div class="main-btns">
+                <button class="btn-create-item">+</button>
+            </div>
+            <div class="market-container">
+            </div>
+        </main>
+
+        <%- include('./components/footer.ejs') %>
+
+        <div class="modals-container"></div>
+    </div>
+    
+    <%- include('./components/scripts.ejs') %>
+    <script src="market.js"></script>
+</body>
+</html>

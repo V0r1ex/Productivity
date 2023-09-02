@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('./components/head.ejs') %>
+</head>
+<body>
+    <%- include('./components/loading.ejs') %>
+    <div class="container">
+        <%- include('./components/header.ejs') %>
+
+        <main class="main">
+            <h2 class="about-title">About</h2>
+            <p class="about-text">Сервис предоставляет возможность создавать список ваших личных задач. Каждая из них имеют определённую награду за её выполнение. Чем больше задач вы сможете сделать - тем более дорогие вещи сможете купить в магазине. Коллекционируйте и создавайте предметы, выполняйте задания и улучшайте вашу жизнь.</p>
+        </main>
+    
+        <%- include('./components/footer.ejs') %>
+
+        <div class="modals-container"></div>
+    </div>
+
+    <%- include('./components/scripts.ejs') %>
+    <link rel="stylesheet" href="about.css">
+</body>
+</html>

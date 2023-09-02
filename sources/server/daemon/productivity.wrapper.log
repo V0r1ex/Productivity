@@ -1,0 +1,774 @@
+2023-08-11 14:59:33 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 14:59:33 - Started 13840
+2023-08-11 15:19:33 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 15:19:33 - Started 5540
+2023-08-11 21:10:52 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 21:10:53 - Started 4532
+2023-08-11 22:44:53 - Stopping productivity.exe
+2023-08-11 22:44:53 - ProcessKill 4532
+2023-08-11 22:44:53 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-11 22:45:20 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-11 22:45:20 - Started 6052
+2023-08-11 23:28:53 - Stopping productivity.exe
+2023-08-11 23:28:53 - ProcessKill 6052
+2023-08-11 23:28:53 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-12 15:30:21 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-12 15:30:21 - Started 5032
+2023-08-12 19:35:59 - Stopping productivity.exe
+2023-08-12 19:35:59 - ProcessKill 5032
+2023-08-12 19:36:00 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-12 22:42:06 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-12 22:42:07 - Started 5260
+2023-08-13 00:35:39 - Stopping productivity.exe
+2023-08-13 00:35:39 - ProcessKill 5260
+2023-08-13 00:35:39 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-13 11:24:52 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-13 11:24:52 - Started 5528
+2023-08-13 13:03:02 - Stopping productivity.exe
+2023-08-13 13:03:02 - ProcessKill 5528
+2023-08-13 13:03:03 - Found child process: 5540 Name: conhost.exe
+2023-08-13 13:03:03 - Found child process: 13236 Name: node.exe
+2023-08-13 13:03:03 - Stopping process 5540
+2023-08-13 13:03:03 - Send SIGINT 5540
+2023-08-13 13:03:03 - SIGINT to 5540 failed - Killing as fallback
+2023-08-13 13:03:03 - Stopping process 13236
+2023-08-13 13:03:03 - Send SIGINT 13236
+2023-08-13 13:03:03 - SIGINT to 13236 failed - Killing as fallback
+2023-08-13 13:03:03 - Stopping process 5528
+2023-08-13 13:03:03 - Send SIGINT 5528
+2023-08-13 13:03:03 - SIGINT to 5528 failed - Killing as fallback
+2023-08-13 13:03:03 - Finished productivity.exe
+2023-08-13 21:29:51 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-13 21:29:51 - Started 5628
+2023-08-13 23:57:59 - Stopping productivity.exe
+2023-08-13 23:57:59 - ProcessKill 5628
+2023-08-13 23:58:00 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-14 09:37:46 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-14 09:37:46 - Started 5508
+2023-08-14 10:23:47 - Stopping productivity.exe
+2023-08-14 10:23:47 - ProcessKill 5508
+2023-08-14 10:23:47 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-14 11:54:04 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-14 11:54:04 - Started 5136
+2023-08-14 12:41:10 - Stopping productivity.exe
+2023-08-14 12:41:10 - ProcessKill 5136
+2023-08-14 12:41:10 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-14 12:41:37 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-14 12:41:37 - Started 5228
+2023-08-14 22:51:09 - Stopping productivity.exe
+2023-08-14 22:51:09 - ProcessKill 5228
+2023-08-14 22:51:09 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-15 14:53:23 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-15 14:53:23 - Started 5460
+2023-08-15 16:19:36 - Stopping productivity.exe
+2023-08-15 16:19:36 - ProcessKill 5460
+2023-08-15 16:19:36 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-15 21:16:35 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-15 21:16:36 - Started 5388
+2023-08-16 06:07:19 - Stopping productivity.exe
+2023-08-16 06:07:20 - ProcessKill 5388
+2023-08-16 06:07:21 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-16 14:28:18 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-16 14:28:18 - Started 3772
+2023-08-16 14:45:06 - Stopping productivity.exe
+2023-08-16 14:45:06 - ProcessKill 3772
+2023-08-16 14:45:06 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-16 18:38:16 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-16 18:38:16 - Started 5336
+2023-08-17 00:22:26 - Stopping productivity.exe
+2023-08-17 00:22:26 - ProcessKill 5336
+2023-08-17 00:22:26 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-17 14:44:45 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-17 14:44:45 - Started 5884
+2023-08-17 21:05:32 - Stopping productivity.exe
+2023-08-17 21:05:32 - ProcessKill 5884
+2023-08-17 21:05:33 - Found child process: 5056 Name: conhost.exe
+2023-08-17 21:05:33 - Found child process: 6864 Name: node.exe
+2023-08-17 21:05:33 - Stopping process 5056
+2023-08-17 21:05:33 - Send SIGINT 5056
+2023-08-17 21:05:33 - SIGINT to 5056 failed - Killing as fallback
+2023-08-17 21:05:33 - Stopping process 6864
+2023-08-17 21:05:33 - Send SIGINT 6864
+2023-08-17 21:05:33 - SIGINT to 6864 failed - Killing as fallback
+2023-08-17 21:05:33 - Stopping process 5884
+2023-08-17 21:05:33 - Send SIGINT 5884
+2023-08-17 21:05:33 - SIGINT to 5884 failed - Killing as fallback
+2023-08-17 21:05:33 - Finished productivity.exe
+2023-08-18 14:46:12 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-18 14:46:12 - Started 6008
+2023-08-18 19:25:05 - Stopping productivity.exe
+2023-08-18 19:25:05 - ProcessKill 6008
+2023-08-18 19:25:06 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-18 22:06:27 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-18 22:06:27 - Started 5304
+2023-08-19 00:06:11 - Stopping productivity.exe
+2023-08-19 00:06:11 - ProcessKill 5304
+2023-08-19 00:06:11 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-19 00:39:55 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-19 00:39:55 - Started 5180
+2023-08-19 01:26:43 - Stopping productivity.exe
+2023-08-19 01:26:43 - ProcessKill 5180
+2023-08-19 01:26:43 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-19 15:33:59 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-19 15:33:59 - Started 5540
+2023-08-19 18:42:59 - Stopping productivity.exe
+2023-08-19 18:42:59 - ProcessKill 5540
+2023-08-19 18:42:59 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-19 21:25:07 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-19 21:25:07 - Started 5176
+2023-08-19 23:26:07 - Stopping productivity.exe
+2023-08-19 23:26:07 - ProcessKill 5176
+2023-08-19 23:26:08 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-20 11:35:50 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-20 11:35:50 - Started 4996
+2023-08-20 14:31:45 - Stopping productivity.exe
+2023-08-20 14:31:45 - ProcessKill 4996
+2023-08-20 14:31:46 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-20 21:42:04 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-20 21:42:04 - Started 5284
+2023-08-21 00:15:12 - Stopping productivity.exe
+2023-08-21 00:15:12 - ProcessKill 5284
+2023-08-21 00:15:12 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-21 07:42:50 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-21 07:42:50 - Started 5304
+2023-08-21 08:20:36 - Stopping productivity.exe
+2023-08-21 08:20:36 - ProcessKill 5304
+2023-08-21 08:20:36 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-21 20:20:17 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-21 20:20:17 - Started 5204
+2023-08-22 00:30:07 - Stopping productivity.exe
+2023-08-22 00:30:07 - ProcessKill 5204
+2023-08-22 00:30:07 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-22 14:43:50 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-22 14:43:50 - Started 5124
+2023-08-22 23:01:17 - Stopping productivity.exe
+2023-08-22 23:01:17 - ProcessKill 5124
+2023-08-22 23:01:18 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-23 15:50:07 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-23 15:50:07 - Started 4548
+2023-08-23 15:54:14 - Stopping productivity.exe
+2023-08-23 15:54:14 - ProcessKill 4548
+2023-08-23 15:54:15 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-23 15:54:42 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-23 15:54:42 - Started 5620
+2023-08-23 16:42:21 - Stopping productivity.exe
+2023-08-23 16:42:21 - ProcessKill 5620
+2023-08-23 16:42:21 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-23 18:29:30 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-23 18:29:30 - Started 5848
+2023-08-23 22:28:45 - Stopping productivity.exe
+2023-08-23 22:28:45 - ProcessKill 5848
+2023-08-23 22:28:45 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-24 14:50:46 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-24 14:50:47 - Started 5804
+2023-08-24 17:27:24 - Stopping productivity.exe
+2023-08-24 17:27:24 - ProcessKill 5804
+2023-08-24 17:27:25 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-24 17:27:52 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-24 17:27:52 - Started 5572
+2023-08-24 17:46:40 - Stopping productivity.exe
+2023-08-24 17:46:40 - ProcessKill 5572
+2023-08-24 17:46:40 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-24 20:01:56 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-24 20:01:56 - Started 5740
+2023-08-24 20:02:46 - Stopping productivity.exe
+2023-08-24 20:02:46 - ProcessKill 5740
+2023-08-24 20:02:46 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-24 20:03:13 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-24 20:03:13 - Started 5804
+2023-08-24 23:29:43 - Stopping productivity.exe
+2023-08-24 23:29:43 - ProcessKill 5804
+2023-08-24 23:29:43 - Shutdown exception
+Message:Класс не зарегистрирован
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-25 09:55:22 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-25 09:55:22 - Started 5128
+2023-08-25 10:08:24 - Stopping productivity.exe
+2023-08-25 10:08:24 - ProcessKill 5128
+2023-08-25 10:08:24 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-25 17:10:07 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-25 17:10:07 - Started 936
+2023-08-25 19:58:58 - Stopping productivity.exe
+2023-08-25 19:58:58 - ProcessKill 936
+2023-08-25 19:58:58 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-25 22:13:15 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-25 22:13:15 - Started 5756
+2023-08-25 22:45:08 - Stopping productivity.exe
+2023-08-25 22:45:08 - ProcessKill 5756
+2023-08-25 22:45:08 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-25 22:47:08 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-25 22:47:08 - Started 5636
+2023-08-25 23:35:10 - Stopping productivity.exe
+2023-08-25 23:35:10 - ProcessKill 5636
+2023-08-25 23:35:10 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-26 09:27:29 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-26 09:27:29 - Started 6048
+2023-08-26 11:56:57 - Stopping productivity.exe
+2023-08-26 11:56:57 - ProcessKill 6048
+2023-08-26 11:56:57 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-27 21:41:37 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-27 21:41:38 - Started 5472
+2023-08-27 21:58:45 - Stopping productivity.exe
+2023-08-27 21:58:45 - ProcessKill 5472
+2023-08-27 21:58:45 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-27 21:59:13 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-27 21:59:13 - Started 5316
+2023-08-28 00:06:23 - Stopping productivity.exe
+2023-08-28 00:06:23 - ProcessKill 5316
+2023-08-28 00:06:23 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-28 17:16:50 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-28 17:16:50 - Started 5744
+2023-08-28 17:44:45 - Stopping productivity.exe
+2023-08-28 17:44:45 - ProcessKill 5744
+2023-08-28 17:44:46 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-28 17:45:12 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-28 17:45:12 - Started 6116
+2023-08-28 23:35:24 - Stopping productivity.exe
+2023-08-28 23:35:24 - ProcessKill 6116
+2023-08-28 23:35:24 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-29 16:09:46 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-29 16:09:46 - Started 4868
+2023-08-29 18:20:08 - Stopping productivity.exe
+2023-08-29 18:20:08 - ProcessKill 4868
+2023-08-29 18:20:08 - Found child process: 5668 Name: conhost.exe
+2023-08-29 18:20:08 - Found child process: 6708 Name: node.exe
+2023-08-29 18:20:09 - Stopping process 5668
+2023-08-29 18:20:09 - Send SIGINT 5668
+2023-08-29 18:20:09 - SIGINT to 5668 failed - Killing as fallback
+2023-08-29 18:20:09 - Stopping process 6708
+2023-08-29 18:20:09 - Send SIGINT 6708
+2023-08-29 18:20:09 - SIGINT to 6708 failed - Killing as fallback
+2023-08-29 18:20:09 - Stopping process 4868
+2023-08-29 18:20:09 - Send SIGINT 4868
+2023-08-29 18:20:09 - SIGINT to 4868 failed - Killing as fallback
+2023-08-29 18:20:09 - Finished productivity.exe
+2023-08-30 09:23:31 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-30 09:23:31 - Started 5216
+2023-08-30 11:20:18 - Stopping productivity.exe
+2023-08-30 11:20:18 - ProcessKill 5216
+2023-08-30 11:20:18 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-30 22:08:18 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-30 22:08:18 - Started 4916
+2023-08-31 02:19:21 - Stopping productivity.exe
+2023-08-31 02:19:21 - ProcessKill 4916
+2023-08-31 02:19:21 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-08-31 21:31:26 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-08-31 21:31:26 - Started 6100
+2023-08-31 22:49:54 - Stopping productivity.exe
+2023-08-31 22:49:54 - ProcessKill 6100
+2023-08-31 22:49:55 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-09-01 08:38:39 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-01 08:38:39 - Started 5172
+2023-09-01 09:03:47 - Stopping productivity.exe
+2023-09-01 09:03:47 - ProcessKill 5172
+2023-09-01 09:03:47 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-09-01 23:02:29 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-01 23:02:29 - Started 5620
+2023-09-02 00:52:05 - Stopping productivity.exe
+2023-09-02 00:52:05 - ProcessKill 5620
+2023-09-02 00:52:05 - Shutdown exception
+Message:Идет завершение работы системы.
+
+Stacktrace:   в System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   в System.Management.ManagementScope.InitializeGuts(Object o)
+   в System.Management.ManagementScope.Initialize()
+   в System.Management.ManagementObjectSearcher.Initialize()
+   в System.Management.ManagementObjectSearcher.Get()
+   в winsw.WrapperService.GetChildPids(Int32 pid)
+   в winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   в winsw.WrapperService.StopIt()
+   в winsw.WrapperService.OnShutdown()
+2023-09-02 11:11:14 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-02 11:11:14 - Started 5604
+2023-09-02 14:40:34 - Stopping productivity.exe
+2023-09-02 14:40:34 - ProcessKill 5604
+2023-09-02 14:40:34 - Found child process: 5508 Name: conhost.exe
+2023-09-02 14:40:34 - Found child process: 6784 Name: node.exe
+2023-09-02 14:40:34 - Stopping process 5508
+2023-09-02 14:40:34 - Send SIGINT 5508
+2023-09-02 14:40:34 - SIGINT to 5508 failed - Killing as fallback
+2023-09-02 14:40:34 - Stopping process 6784
+2023-09-02 14:40:34 - Send SIGINT 6784
+2023-09-02 14:40:34 - SIGINT to 6784 failed - Killing as fallback
+2023-09-02 14:40:34 - Stopping process 5604
+2023-09-02 14:40:34 - Send SIGINT 5604
+2023-09-02 14:40:34 - SIGINT to 5604 failed - Killing as fallback
+2023-09-02 14:40:34 - Finished productivity.exe
+2023-09-02 22:26:21 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-02 22:26:21 - Started 5412
+2023-09-02 23:21:21 - Stopping productivity.exe
+2023-09-02 23:21:21 - ProcessKill 5412
+2023-09-02 23:21:21 - Found child process: 5816 Name: conhost.exe
+2023-09-02 23:21:21 - Found child process: 6868 Name: node.exe
+2023-09-02 23:21:21 - Stopping process 5816
+2023-09-02 23:21:21 - Send SIGINT 5816
+2023-09-02 23:21:21 - SIGINT to 5816 failed - Killing as fallback
+2023-09-02 23:21:21 - Stopping process 6868
+2023-09-02 23:21:21 - Send SIGINT 6868
+2023-09-02 23:21:21 - SIGINT to 6868 failed - Killing as fallback
+2023-09-02 23:21:21 - Stopping process 5412
+2023-09-02 23:21:21 - Send SIGINT 5412
+2023-09-02 23:21:21 - SIGINT to 5412 failed - Killing as fallback
+2023-09-02 23:21:21 - Finished productivity.exe
+2023-09-02 23:21:23 - Starting D:\Programs\NodeJS\node.exe  --harmony D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js --file D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js --scriptoptions= --log "Productivity wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-09-02 23:21:23 - Started 13772

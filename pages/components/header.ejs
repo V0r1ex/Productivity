@@ -1,0 +1,40 @@
+<header class="header">
+    <div class="header-inner">
+        <div class="header-logo">
+            <img src="images/logo.svg" alt="Productivity" class="header-logo_img">
+            <h1 class="site-title">PRODUCTIVITY</h1>
+        </div>
+        <nav class="header-nav">
+            <ol class="header-nav-list">
+                <li class="header-nav-item">
+                    <a href="/" class="header-nav-link">Главная</a>
+                </li>
+                <li class="header-nav-item">
+                    <a href="/tasks" class="header-nav-link">Задачи</a>
+                </li>
+                <li class="header-nav-item">
+                    <a href="/market" class="header-nav-link">Магазин</a>
+                </li>
+                <li class="header-nav-item">
+                    <a href="/inventory" class="header-nav-link">Инвентарь</a>
+                </li>
+                <li class="header-nav-item">
+                    <a href="/about" class="header-nav-link">О нас</a>
+                </li>
+            </ol>
+        </nav>
+        <div class="profile-container">
+            <button class="reset-btn" title="Сбросить прогресс?" onclick="openResetModal()"></button>
+            <div class="stats-container">
+                <div class="balance"></div>
+                <div class="lvl-container">
+                    <progress name="lvl" value="0" min="0" max="100" class="lvl-progress"></progress>
+                    <label for="lvl"><span class="lvl-value">1</span> lvl</label>
+                </div>
+            </div>
+            <div class="user-container">
+                <img src="images/user.svg" alt="user" class="user-icon">
+            </div>
+        </div>
+    </div>
+</header>

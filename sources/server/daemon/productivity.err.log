@@ -1,0 +1,36 @@
+D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js:9
+app.close()
+    ^
+
+TypeError: app.close is not a function
+    at Object.<anonymous> (D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js:9
+app.close()
+    ^
+
+TypeError: app.close is not a function
+    at Object.<anonymous> (D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js:9
+app.close()
+    ^
+
+TypeError: app.close is not a function
+    at Object.<anonymous> (D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Module.load (node:internal/modules/cjs/loader:1004:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:839:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47

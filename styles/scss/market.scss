@@ -1,0 +1,87 @@
+@import '_constants';
+
+.main {
+    text-align: center;
+}
+.main-btns {
+
+}
+.btn-create-item {
+    height: 40px;
+    width: 40px;
+    border-radius: 5px;
+    background-color: #d89e29;
+}
+.market-container, .inventory-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
+.market-item {
+    width: 300px;
+    background-color: #d89e29;
+    border-radius: 5px;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.market-item-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.market-header {
+}
+.market-description {
+}
+.market-cost {
+}
+.market-cost-value {
+}
+.market-img {
+    width: 100%;
+}
+
+.market-btn {
+    margin-top: 25px;
+}
+
+.modal-create-item {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 600px;
+    width: 600px;
+    border-radius: 20px;
+    background-color: #FFA900;
+    padding: 50px;
+}
+
+.modal-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.modal-row {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.modal-text {
+    flex-grow: 1;
+}
+
+.modal-btns {
+}
+

@@ -1,0 +1,26 @@
+[
+    {
+      "id": 123123,
+      "name": "Land Cruiser",
+      "cost": "4000000",
+      "description": "car",
+      "type": "car",
+      "path": "images/items/1.jpg"
+    },
+    {
+      "id": 421432,
+      "name": "Cadillac Escalade",
+      "cost": "7000000",
+      "description": "car",
+      "type": "car",
+      "path": "images/items/2.jpg"
+    },
+    {
+      "id": 352355,
+      "name": "ВАЗ-2107",
+      "cost": "20000",
+      "description": "car",
+      "type": "car",
+      "path": "images/items/3.jpg"
+    }
+  ]

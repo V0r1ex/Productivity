@@ -1,0 +1,31 @@
+<service>
+	<id>productivity.exe</id>
+	<name>Productivity</name>
+	<description>The nodejs.org Productivity serveer.</description>
+	<executable>D:\Programs\NodeJS\node.exe</executable>
+	<argument>--harmony</argument>
+	<argument>D:\Programming\Web\Портфолио\Node.js\Productivity\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>D:\Programming\Web\Портфолио\Node.js\Productivity\sources\server\server.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>Productivity wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>DESKTOP-30DSMK9</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>D:\Programming\Web\Портфолио\Node.js\Productivity</workingdirectory>
+</service>

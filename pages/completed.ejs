@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('./components/head.ejs') %>
+    <link rel="stylesheet" href="completed.css">
+</head>
+<body>
+    <%- include('./components/loading.ejs') %>
+    <div class="container">
+        <%- include('./components/header.ejs') %>
+
+        <main class="main">
+            <div class="main-top">
+                <h2>Completed tasks</h2>
+                <div class="tasks-count counter">Всего выполнено: <span class="tasks-count-value"></span> заданий</div>
+            </div>
+            <div class="tasks-container"></div>
+        </main>
+
+        <%- include('./components/footer.ejs') %>
+
+        <div class="modals-container"></div>
+    </div>
+    
+    <%- include('./components/scripts.ejs') %>
+    <script src="completed.js"></script>
+</body>
+</html>

@@ -1,0 +1,106 @@
+h2 {
+  font-size: 48px;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+.green {
+  background-color: #89cf50;
+}
+
+.yellow {
+  background-color: #d89e29;
+}
+
+.red {
+  background-color: #da5d5d;
+}
+
+.main-btns {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.main {
+  text-align: center;
+}
+
+.btn-create-task {
+  height: 40px;
+  width: 40px;
+  padding: 0;
+}
+
+.modal-create-task {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 600px;
+  width: 600px;
+  border-radius: 20px;
+  background-color: #FFA900;
+  padding: 50px;
+}
+
+.second-btn {
+  color: #252015;
+}
+
+.modal-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+.modal-row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+  gap: 10px;
+}
+
+.modal-text {
+  flex-grow: 1;
+}
+
+.tasks-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+}
+
+.task-card {
+  width: 350px;
+  border-radius: 5px;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.task-card-inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.task-btns {
+  display: flex;
+  gap: 10px;
+  margin-top: 30px;
+}
+
+.task-btn {
+  font-size: 18px;
+}/*# sourceMappingURL=tasks.css.map */

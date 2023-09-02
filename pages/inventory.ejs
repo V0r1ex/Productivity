@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('./components/head.ejs') %>
+    <link rel="stylesheet" href="market.css">
+    <link rel="stylesheet" href="inventory.css">
+</head>
+<body>
+    <%- include('./components/loading.ejs') %>
+
+    <div class="container">
+        <%- include('./components/header.ejs') %>
+
+        <main class="main">
+            <div class="main-top">
+                <h2>Inventory</h2>
+                <div class="inventory-sum counter">Итого: <span class="inventory-sum-value"></span></div>
+            </div>
+            <div class="inventory-container">
+
+            </div>
+        </main>
+
+        <%- include('./components/footer.ejs') %>
+
+        <div class="modals-container"></div>
+    </div>
+
+    <%- include('./components/scripts.ejs') %>
+    <script src="inventory.js"></script>
+</body>
+</html>
